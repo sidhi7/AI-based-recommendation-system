@@ -46,7 +46,8 @@ userID,itemID,preference
 2,101,4.5
 2,103,5.0
 ...
-Mahout Components:
+
+## Mahout Components:
 
 FileDataModel reads the CSV into Mahout’s data structure.
 
