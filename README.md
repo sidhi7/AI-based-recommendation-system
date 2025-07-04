@@ -46,8 +46,7 @@ userID,itemID,preference
 2,101,4.5
 2,103,5.0
 ...
-
-## Mahout Components:
+Mahout Components:
 
 FileDataModel reads the CSV into Mahout’s data structure.
 
@@ -63,17 +62,19 @@ Mahout evaluates items that similar users rate highly but the current user hasn�
 Response:
 The REST controller returns a list of recommended item IDs, consumable by any frontend (React, Angular, mobile, CLI).
 
-## 🔷 Use Cases
+🔷 Use Cases
 E‑Commerce: Suggest products based on shopping patterns of similar customers.
 
 Streaming Platforms: Recommend movies or songs based on the viewing/listening history of like‑minded users.
 
 Educational Platforms: Propose learning resources aligned with peer learner behavior.
 
-## 🔷 Why Apache Mahout?
+🔷 Why Apache Mahout?
 Mahout is an established library for collaborative filtering, supporting both memory‑based and model‑based recommenders. Even though it is older, it remains excellent for quick prototyping and educational purposes. Unlike modern big‑data frameworks that require extensive setups, Mahout 0.9 works smoothly with small datasets in plain Java.
 
-## 🔷 Conclusion
+🔷 Conclusion
 This project demonstrates how machine‑learning principles can be applied in Java‑based enterprise applications using Spring Boot. The system is modular, extensible, and easy to integrate into microservices or full‑stack architectures. By implementing collaborative filtering end‑to‑end, we illustrate how AI‑powered recommendations can be brought into production‑ready environments quickly and effectively.
 
 © 2025 CODTECH IT SOLUTIONS — Internship Project by Sidhi Grover
+
+
