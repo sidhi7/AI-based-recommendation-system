@@ -1,3 +1,6 @@
+<img width="1138" alt="Screenshot 2025-07-04 at 3 09 33 PM" src="https://github.com/user-attachments/assets/dcfbc4e7-fad4-4f5e-b8ee-cb9ba7042a8d" />
+
+
 # 🧠 AI‑Based Recommendation System Using Apache Mahout and Spring Boot
 
 **COMPANY:** CODTECH IT SOLUTIONS  
@@ -77,6 +80,5 @@ This project demonstrates how machine‑learning principles can be applied in Ja
 
 © 2025 CODTECH IT SOLUTIONS — Internship Project by Sidhi Grover
 
-<img width="1138" alt="Screenshot 2025-07-04 at 3 09 33 PM" src="https://github.com/user-attachments/assets/dcfbc4e7-fad4-4f5e-b8ee-cb9ba7042a8d" />
 
 
